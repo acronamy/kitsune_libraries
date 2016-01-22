@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "_args": [
     [
       "git+https://github.com/acronamy/kitsune_libraries.git",
@@ -52,4 +53,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "version": "1.0.0"
+=======
+  "name": "kitsune_libraries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam crockett",
+  "license": "ISC"
+>>>>>>> 0514f4881786034600b947a2358b166a13caae53
 }
